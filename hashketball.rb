@@ -115,6 +115,7 @@ def game_hash
           }
         ]
       }
+    game_hash[:away][:players]
     }
   }
 end
