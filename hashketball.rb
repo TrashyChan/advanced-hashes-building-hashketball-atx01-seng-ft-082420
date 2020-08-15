@@ -116,6 +116,5 @@ def game_hash
         ]
       }
     }
-    p game_hash[game_stats]
   }
 end
