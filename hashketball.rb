@@ -115,7 +115,7 @@ def game_hash
           }
         ]
       }
-    p players
+    p game_stats
     }
   }
 end
