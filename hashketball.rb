@@ -36,7 +36,7 @@ def game_hash
           :steals => 3,
           :blocks => 1, 
           :slam_dunks => 15
-          },
+        },
         :mason_plumlee => {
           :player_name => "Mason Plumlee",
           :number => 1,
@@ -47,7 +47,7 @@ def game_hash
           :steals => 3, 
           :blocks => 8,
           :slam_dunks => 5
-          },
+        },
         :jason_terry => {
           :player_name => "Jason Terry",
           :number => 31,
@@ -58,10 +58,10 @@ def game_hash
           :steals => 4,
           :blocks => 11,
           :slam_dunks => 1 
-          },
-        ],
-      },
+        }
+      ]
     },
+    
     :away => {
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
